@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "Airline-Reservation-System"
+    ],
+    "java.project.referencedLibraries": [
+        "libs/mysql-connector-j-9.1.0.jar"
+    ]
+}
